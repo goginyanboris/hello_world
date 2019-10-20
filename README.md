@@ -1,3 +1,3 @@
-# hello_world
+# random_processes
 
-change just repository
+laboratory work on "random processes"
